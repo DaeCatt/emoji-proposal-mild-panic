@@ -1,16 +1,16 @@
 # Proposal for Emoji: MILDLY PANICKED FACE
 
-**Submitted by**: Dae Catt
-**Date**: DATE OF SUBMISSIONS
-**Emoji Name**: MILDLY PANICKED FACE
-**Sort order**: in the FACE-CONCERNED category, after WORRIED FACE
-**Reference emoji**: WORRIED FACE, FLUSHED FACE, ANXIOUS FACE WITH SWEAT
+**Submitted by**: Dae Catt  
+**Date**: DATE OF SUBMISSIONS  
+**Emoji Name**: MILDLY PANICKED FACE  
+**Sort order**: in the FACE-CONCERNED category, after WORRIED FACE  
+**Reference emoji**: WORRIED FACE, FLUSHED FACE, ANXIOUS FACE WITH SWEAT  
 **Keywords**: face, mild panic, very worried, panic, worried
 
 ![](emoji/mildly_panicked_face.png)
-![](emoji/mildly_panicked_face_bw.png)
+![](emoji/mildly_panicked_face_bw.png)  
 ![](emoji/mildly_panicked_face_18x18.png)
-![](emoji/mildly_panicked_face_bw_18x18.png)
+![](emoji/mildly_panicked_face_bw_18x18.png)  
 _Image License: CC-BY 4.0. Assets remixed the Twemoji v12.0 collection._
 
 ## Abstract
@@ -29,13 +29,13 @@ TODO: Add introduction
 
 We are not aware of any public availability of MILDLY PANICKED FACE, however it
 is available and has been added as a community emote across several services:
-Twitch as a subscriber emote: https://twitchemotes.com/emotes/301640398
-Twitch through the extension FrankerFaceZ:  
-https://www.frankerfacez.com/emoticon/353106-MildPanic
-Discord image ready to be added to any server:  
-https://twitter.com/amadornes/status/1130205585109078016
-Discord through the service DiscordEmoji:  
-https://discordemoji.com/emoji/1548_mildpanic
+Twitch as a subscriber emote: https://twitchemotes.com/emotes/301640398  
+Twitch through the extension FrankerFaceZ:
+https://www.frankerfacez.com/emoticon/353106-MildPanic  
+Discord image ready to be added to any server:
+https://twitter.com/amadornes/status/1130205585109078016  
+Discord through the service DiscordEmoji:
+https://discordemoji.com/emoji/1548_mildpanic  
 Added to several Slack servers:  
 https://twitter.com/kvlly/status/1129077922504019969
 https://twitter.com/LukeMoll_/status/1129390613542182913
