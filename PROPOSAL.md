@@ -46,7 +46,7 @@ https://twitter.com/robertmain_/status/1129121516078141442
 
 #### B.1. Frequency
 
-Given that the emoji is primarily present in private contexts it’s hard to
+Given that the emoji is primarily present in private contexts it's hard to
 estimate how it has been used and will be used. As such we have chosen to
 compare its search frequency with the terms "worried emoji" and "stressed
 emoji".
@@ -98,7 +98,7 @@ concern not currently possible with existing emoji.
 
 ### E. Petitions or "frequent requests"
 
-TODO: There are a few change.org petitions to add mild panic, but I haven’t been
+TODO: There are a few change.org petitions to add mild panic, but I haven't been
 able to get their numbers. Twitter has plenty of requests to add "mild panic"
 both to specific services and to Unicode.
 
